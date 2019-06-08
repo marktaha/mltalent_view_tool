@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Copyright method excersize for application I use.}
   #spec.description   = %q{: Write a longer description or delete this line.}
-  spec.homepage      = "none"
+  spec.homepage      = "http://db.mltalent.com"
   spec.license       = "MIT"
 
 
